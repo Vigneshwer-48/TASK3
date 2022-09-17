@@ -4,11 +4,11 @@ var obj1={
     "name":"john doe",
     "age":"23",
     "salary":"33.33"
-//   };
-//   console.log(obj1.name);
-//   for(var key in obj1){
-//   console.log(key,obj1[key]);
-//   }
+  };
+  console.log(obj1.name);
+  for(var key in obj1){
+  console.log(key,obj1[key]);
+  }
  
   //json using for loop
 
