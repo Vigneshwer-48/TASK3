@@ -37,72 +37,72 @@ var arr1=[
         console.log(arr1[i].id);
         }
         
-        {
-          "meta": {
-            "theme": "elegant"
-          },
-          "basics": 
-          {
-            "name": "Vigneshwer J",
-            "email": "vickynanban48@gmail.com",
-            "location": {
-              "city": "Chennai",
-              "countryCode": "IN"
-            },
-            "profiles": [
-              {
-                "url": "https://github.com/Vigneshwer-48",
-                "username": "Vigneshwer-48",
-                "network": "github"
-              }
-            ]
-          },
-          "education": [
-            {
-               "institution": "Sri Venkateswara Institute of Science and Technology",
-               "area": "Electronic Communication Engineering",
-              "studyType": "Bachelors",
-            }
-          ],
+        // {
+        //   "meta": {
+        //     "theme": "elegant"
+        //   },
+        //   "basics": 
+        //   {
+        //     "name": "Vigneshwer J",
+        //     "email": "vickynanban48@gmail.com",
+        //     "location": {
+        //       "city": "Chennai",
+        //       "countryCode": "IN"
+        //     },
+        //     "profiles": [
+        //       {
+        //         "url": "https://github.com/Vigneshwer-48",
+        //         "username": "Vigneshwer-48",
+        //         "network": "github"
+        //       }
+        //     ]
+        //   },
+        //   "education": [
+        //     {
+        //        "institution": "Sri Venkateswara Institute of Science and Technology",
+        //        "area": "Electronic Communication Engineering",
+        //       "studyType": "Bachelors",
+        //     }
+        //   ],
       
-          "skills": [
-            {
-              "keywords": [
-                "HTML",
-                "CSS",
-                "Javascript / Typescript",
-                "React",
+        //   "skills": [
+        //     {
+        //       "keywords": [
+        //         "HTML",
+        //         "CSS",
+        //         "Javascript / Typescript",
+        //         "React",
       
-              ],
-              "level": "Senior",
-              "name": "Frontend"
-            },
+        //       ],
+        //       "level": "Senior",
+        //       "name": "Frontend"
+        //     },
       
-          ],
+        //   ],
       
-          "work expirience": [
-            {
-              "name": "Sutherland Global Service",
-              "location": "Chennai",
-              "position": "Technical support",
-              "startYear": "Jan 2017",
-            },
+        //   "work expirience": [
+        //     {
+        //       "name": "Sutherland Global Service",
+        //       "location": "Chennai",
+        //       "position": "Technical support",
+        //       "startYear": "Jan 2017",
+        //     },
       
       
-          ],
-          "interests": [
-            {
-              "name": "Travelling"
-            },
-            {
-              "name": "Music"
-            },
-            {
-              "name": "Web series"
-            },
-            {
-              "name": "Open Source"
-            }
-          ]
-        }
+        //   ],
+        //   "interests": [
+        //     {
+        //       "name": "Travelling"
+        //     },
+        //     {
+        //       "name": "Music"
+        //     },
+        //     {
+        //       "name": "Web series"
+        //     },
+        //     {  
+        //       "name": "Open Source"
+        //     }
+        //   ]
+        // }
       
