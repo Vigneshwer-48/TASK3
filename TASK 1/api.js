@@ -25,3 +25,4 @@ request.onload=function(){
         console.log(result[i].name,result[i].region,result[i].subregion,result[i].population);
     }
 };
+
