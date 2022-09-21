@@ -37,12 +37,8 @@ var arr1=[
         console.log(arr1[i].id);
         }
         
-        // {
-        //   "meta": {
-        //     "theme": "elegant"
-        //   },
-        //   "basics": 
-        //   {
+ 
+        //   var resume {
         //     "name": "Vigneshwer J",
         //     "email": "vickynanban48@gmail.com",
         //     "location": {
