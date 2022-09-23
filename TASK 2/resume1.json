@@ -1,0 +1,46 @@
+var resume = {
+    "1. Basics": {
+        "Name": "Vigneshwer J",
+        "email": "vickynanban48@gmail.com",
+        "Phone no.": 9791472278,
+        "Location": "Chennai, India",
+        },
+    "2. Profiles": [ 
+        {
+        "linkedIn": "https://www.linkedin.com/in/vigneshwer-jayaraman-077680187/",
+        "GitHub": "https://github.com/Vigneshwer-48",
+        }
+    ],
+    "3. Education": [
+        {
+        "1. UG Degree": "B.E in Electronics and Communication Engineering, YOP-2016",
+        "2. UG College": "Sri Venkateswara Institue of Science and Technology, Tiruvallur",
+        }
+    ],
+    "4. Skills": [
+        {
+        "Teamwork, Adaptability, Decision Making": 5,
+        "JavaScript, HTML, CSS": 3.5,
+        }
+    ],
+    "5. Languages Known": [
+        {
+        "List": "English and Tamil",
+        }
+    ],
+    "6. Certifications": [
+        {
+        1: "GUVI-JavaScript, valid from 2023",
+        }
+    ],
+
+    "7. Hobbies":[
+        {
+        1: "Traveling",
+        2: "Movies and Web series",
+        3: "Cricket"
+        }
+    ] 
+    }
+    
+    console.log(resume);
