@@ -1,4 +1,4 @@
-var resume = {
+let resume = {
     "1. Basics": {
         "Name": "Vigneshwer J",
         "email": "vickynanban48@gmail.com",
@@ -30,15 +30,15 @@ var resume = {
     ],
     "6. Certifications": [
         {
-        1: "GUVI-JavaScript, valid from 2023",
+        "1": "GUVI-JavaScript, valid from 2023",
         }
     ],
 
     "7. Hobbies":[
         {
-        1: "Traveling",
-        2: "Movies and Web series",
-        3: "Cricket"
+        "1": "Traveling",
+        "2": "Movies and Web series",
+        "3": "Cricket"
         }
     ] 
     }
