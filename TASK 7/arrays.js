@@ -16,6 +16,6 @@ request.onload=function(){
     var pop1=result.reduce((acc,cv)=>acc+cv.population,0);
     console.log(pop1);
 //e.Print the country which uses US Dollars as currency.
-    var currency=result.filter((ele)=>ele.currencies=="USD").map((ele)=>ele.code);
+    var currency=result.filter((ele)=>ele.currencies)//.map((ele)=>ele.code="USD");
     console.log(currency);
 }
